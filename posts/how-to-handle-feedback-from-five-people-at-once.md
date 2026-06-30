@@ -7,8 +7,6 @@ image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-th
 published: true
 ---
 
-# How to Handle Feedback From Five People at Once
-
 You send the edit. Then the replies start rolling in. The brand manager wants the logo bigger. The marketing lead wants the music changed. The founder thinks the pacing is off. The social media manager has a different cut in mind. And then there's the client's assistant, who's just forwarded notes from someone you've never even spoken to.
 
 Five people. Five sets of opinions. And somehow, you're supposed to make one video that satisfies all of them.
