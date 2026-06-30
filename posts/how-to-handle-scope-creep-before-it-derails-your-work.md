@@ -1,6 +1,6 @@
 ---
 title: "How to Handle Scope Creep Before It Derails Your Work"
-date: 2026-04-21
+date: 2026-05-05
 slug: how-to-handle-scope-creep-before-it-derails-your-work
 excerpt: "Scope creep does not happen all at once, here is how to catch it early."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-how-to-handle-scope-creep-before-it-derails-your-work.jpg"
