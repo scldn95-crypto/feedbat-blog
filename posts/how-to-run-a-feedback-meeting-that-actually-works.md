@@ -1,6 +1,6 @@
 ---
 title: "How to Run a Feedback Meeting That Actually Works"
-date: 2026-05-19
+date: 2026-06-09
 slug: how-to-run-a-feedback-meeting-that-actually-works
 excerpt: "Most feedback meetings waste time. This is how to run one that actually moves things forward."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-how-to-run-a-feedback-meeting-that-actually-works.jpg"
