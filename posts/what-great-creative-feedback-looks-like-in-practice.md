@@ -1,6 +1,6 @@
 ---
 title: "What Great Creative Feedback Looks Like in Practice"
-date: 2026-06-30
+date: 2026-05-05
 slug: what-great-creative-feedback-looks-like-in-practice
 excerpt: "Great feedback is specific, timely, and actionable, here is what that means."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-what-great-creative-feedback-looks-like-in-practice.jpg"
