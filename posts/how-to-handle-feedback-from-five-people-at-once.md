@@ -1,6 +1,6 @@
 ---
 title: "How to Handle Feedback From Five People at Once"
-date: 2026-06-30
+date: 2026-03-31
 slug: how-to-handle-feedback-from-five-people-at-once
 excerpt: "When five people all have opinions, here's how to stay in control."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-how-to-handle-feedback-from-five-people-at-once.jpg"
