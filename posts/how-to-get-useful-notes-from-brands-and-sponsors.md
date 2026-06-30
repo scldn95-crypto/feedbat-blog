@@ -1,6 +1,6 @@
 ---
 title: "How to Get Useful Notes From Brands and Sponsors"
-date: 2026-06-30
+date: 2026-04-14
 slug: how-to-get-useful-notes-from-brands-and-sponsors
 excerpt: "Brand partnerships go smoother when you control how feedback comes in."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-how-to-get-useful-notes-from-brands-and-sponsors.jpg"
