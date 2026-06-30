@@ -1,6 +1,6 @@
 ---
 title: "The Quickest Way to Spot Scope Creep Early On"
-date: 2026-04-28
+date: 2026-05-12
 slug: the-quickest-way-to-spot-scope-creep-early-on
 excerpt: "Catch scope creep in the first week before it costs you in the final one."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-the-quickest-way-to-spot-scope-creep-early-on.jpg"
