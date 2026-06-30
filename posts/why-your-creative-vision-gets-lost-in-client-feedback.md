@@ -1,6 +1,6 @@
 ---
 title: "Why Your Creative Vision Gets Lost in Client Feedback"
-date: 2026-06-30
+date: 2026-04-07
 slug: why-your-creative-vision-gets-lost-in-client-feedback
 excerpt: "How conflicting client notes quietly strip the best ideas from your work."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-why-your-creative-vision-gets-lost-in-client-feedback.jpg"
