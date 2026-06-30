@@ -1,6 +1,6 @@
 ---
 title: "From Chaos to Clarity: Organising Client Feedback"
-date: 2026-06-30
+date: 2026-05-26
 slug: from-chaos-to-clarity-organising-client-feedback
 excerpt: "Scattered client feedback costs you time on every project. Here is how to organise it."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-from-chaos-to-clarity-organising-client-feedback.jpg"
