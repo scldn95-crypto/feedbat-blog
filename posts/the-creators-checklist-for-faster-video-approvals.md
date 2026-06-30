@@ -1,6 +1,6 @@
 ---
 title: "The Creator's Checklist for Faster Video Approvals"
-date: 2026-06-30
+date: 2026-05-19
 slug: the-creators-checklist-for-faster-video-approvals
 excerpt: "Get your videos approved faster with a checklist that removes approval friction."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-the-creators-checklist-for-faster-video-approvals.jpg"
