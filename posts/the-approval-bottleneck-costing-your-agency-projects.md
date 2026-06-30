@@ -1,6 +1,6 @@
 ---
 title: "The Approval Bottleneck Costing Your Agency Projects"
-date: 2026-06-30
+date: 2026-06-09
 slug: the-approval-bottleneck-costing-your-agency-projects
 excerpt: "Approval delays are not a client problem, they are a process problem you can fix."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-the-approval-bottleneck-costing-your-agency-projects.jpg"
