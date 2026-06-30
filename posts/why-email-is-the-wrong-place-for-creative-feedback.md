@@ -1,6 +1,6 @@
 ---
 title: "Why Email Is the Wrong Place for Creative Feedback"
-date: 2026-05-12
+date: 2026-05-26
 slug: why-email-is-the-wrong-place-for-creative-feedback
 excerpt: "Email feels familiar, but it is the most expensive way to manage creative reviews."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-why-email-is-the-wrong-place-for-creative-feedback.jpg"
