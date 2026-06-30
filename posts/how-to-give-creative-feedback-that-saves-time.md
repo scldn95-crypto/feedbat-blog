@@ -1,6 +1,6 @@
 ---
 title: "How to Give Creative Feedback That Saves Time"
-date: 2026-07-01
+date: 2026-06-30
 slug: how-to-give-creative-feedback-that-saves-time
 excerpt: "The way you give feedback determines how many revision rounds a project needs."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-how-to-give-creative-feedback-that-saves-time.jpg"
