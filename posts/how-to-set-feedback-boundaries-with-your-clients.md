@@ -1,6 +1,6 @@
 ---
 title: "How to Set Feedback Boundaries With Your Clients"
-date: 2026-06-30
+date: 2026-06-02
 slug: how-to-set-feedback-boundaries-with-your-clients
 excerpt: "Clear feedback boundaries save freelancers from endless revisions and scope creep."
 image: "https://res.cloudinary.com/dc42vgi38/image/upload/FeedBat%20Blog/blog-thumbnail-how-to-set-feedback-boundaries-with-your-clients.jpg"
